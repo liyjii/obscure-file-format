@@ -1,7 +1,7 @@
-# Some notes here
+_6.py_ is the enc file.
 
-./6.py: is the enc file.
-./unpack.py: is the dec file.
+_unpack.py_ is the dec file.
 
-## there are still some bugs in dec file,I only managed to dec the first entry which contains the flag.
+### some notes
 
+there are still some bugs in dec file,I only managed to dec the first entry which contains the flag.
